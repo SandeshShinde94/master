@@ -4,8 +4,14 @@
 * @Descrption  : For Testing
 **/
 
-Publi With Shaing Class SampleClass {
+Public With Sharing Class SampleClass {
+/***
+* @Devloper : Sandesh 
+* @Date : 15/05/2023
+* @Descrption  : For Testing sampleMthod
+**/
+
   public void sampleMthod() {
-  
+  system.debug( 'Inside in SampleMthod');
   }
 }
